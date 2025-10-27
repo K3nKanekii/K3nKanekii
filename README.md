@@ -6,6 +6,7 @@
 - 🇬🇷 Based in Greece
 - 🎮 I love working with others on game development projects
 - 🔧 FiveM developer working on the ESX framework mostly
+- 😇 I love watching anime and im very chill
 - 📨 You can reach me on Discord: **gnwstos.**
 
 ---
