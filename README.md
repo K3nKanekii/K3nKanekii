@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/FiveM-FF9900?style=for-the-badge&logo=fivem&logoColor=black" />
-<img src="https://img.shields.io/badge/ESX_Framework-1E90FF?style=for-the-badge" />
+<img
 </p>
 
 ---
