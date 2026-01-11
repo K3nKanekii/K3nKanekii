@@ -37,4 +37,4 @@
 
 ---
 
-⭐️ Feel free to explore my repos and connect with me!
+⭐️ Feel free to explore my repos or send me a DM on discord to connect with me!
