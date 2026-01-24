@@ -3,10 +3,10 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🇬🇷 Based in Greece
-- 🎮 I love working with others on game development projects
-- 🔧 FiveM developer working on the ESX framework mostly
-- 😇 I love watching anime and im very chill
+- 🇬🇷 Based In Greece
+- 🎮 I Love Working With Others On Game Development Projects
+- 🔧 FiveM Developer
+- 😇 I Love Watching Anime And Im Very Chill If You Are Also Chill
 - 📨 You can reach me on Discord: **gnwstos.**
 
 ---
@@ -20,11 +20,12 @@
 
 ### ⚙️ Tech Stack:
 <p align="left">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/FiveM-FF9900?style=for-the-badge&logo=fivem&logoColor=black" />
-<img
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiveM-FF9900?style=for-the-badge&logo=fivem&logoColor=black" />
 </p>
 
 ---
@@ -37,4 +38,4 @@
 
 ---
 
-⭐️ Feel free to explore my repos or send me a DM on discord to connect with me!
+⭐️ Feel Free To Explore My Repos or Send Me A DM On Discord To Connect With Me!
