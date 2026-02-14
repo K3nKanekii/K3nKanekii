@@ -7,7 +7,7 @@
 - 🎮 I Love Working With Others On Game Development Projects
 - 🔧 FiveM Developer
 - 😇 I Love Watching Anime And Im Very Chill If You Are Also Chill
-- 📨 You can reach me on Discord: **gnwstos.**
+- 📨 You can reach me on Discord: **kanekiomegas**
 
 ---
 
