@@ -28,12 +28,6 @@
   <img src="https://img.shields.io/badge/FiveM-FF9900?style=for-the-badge&logo=fivem&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=K3nKanekii&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nKanekii&layout=compact&theme=radical" width="41%"/>
 </div>
 
 ---
